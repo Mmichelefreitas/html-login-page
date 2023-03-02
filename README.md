@@ -11,7 +11,7 @@
 This Modern and clean login page was made with HTML5, CSS3 and Javascript, using 
 <a href= "https://www.figma.com/file/ucRhnKEXhakCE8SYF4CZOk/LoginPage?node-id=0%3A1&t=SzNMbybEbe5V0Qff-0">Figma</a> design made by me.
 
-### 📷 How it looks like
+### 📷 See it Live
 
 ![Page GIF](assets/login-page-presentation.gif)
 
@@ -30,7 +30,7 @@ https://github.com/Mmichelefreitas/html-login-page/
 
 
 
-<a href="https://www.linkedin.com/in/mmichelefreitas/"><img src="./assets/linkedIn-blue-logo.svg" height="40px" alt="Linkedin Profile"></a>    <a href="mailto:mmichelefreitas@gmail.com"><img src="./assets/gmail-logo-color.svg" height="40px" alt="Gmail Contact"></a><a href="https://www.figma.com/file/ucRhnKEXhakCE8SYF4CZOk/LoginPage?node-id=0%3A1&t=SzNMbybEbe5V0Qff-0"><img src="./assets/figma-logo-color.png" height="40px" alt="Figma Project Page"></a>
+<a href="https://www.linkedin.com/in/mmichelefreitas/"><img src="./assets/linkedIn-blue-logo.svg" height="40px" alt="Linkedin Profile"></a>    <a href="mailto:mmichelefreitas@gmail.com"><img src="./assets/gmail-logo-color.svg" height="40px" alt="Gmail Contact"></a>
 
 
 
