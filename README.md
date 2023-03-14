@@ -23,7 +23,7 @@ This Modern and clean login page was made with HTML5, CSS3 and Javascript, using
 ### 🔗 Link to the Project Page on GitHub Pages
 
 
-https://github.com/Mmichelefreitas/html-login-page/
+https://mmichelefreitas.github.io/html-login-page/
 
 ### 👄 Let's Talk
 ![Let's Talk GIF](assets/cat-computer-nakanoart.gif)
